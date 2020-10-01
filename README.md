@@ -31,7 +31,7 @@ ________
 ________
 
 # Web Dashboard Design
-**Core Project Design**<br>
+**Core Project Design**<br> 
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/50068566/94361706-d5323600-00cf-11eb-8f56-49ebd59ece12.gif)
 <br>
 ![w4](https://user-images.githubusercontent.com/50068566/94361895-f5aec000-00d0-11eb-9d98-f12874029e72.png)
